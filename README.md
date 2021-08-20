@@ -17,3 +17,5 @@
 - Midnight
 - Light
 - Dark
+
+# ⭐ THERE IS A DEFAULT THEME IF YOU DO NOT CHOOSE ONE OF THESE! ⭐
