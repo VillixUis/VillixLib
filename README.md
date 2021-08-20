@@ -10,3 +10,10 @@
 - More To Come 
 
 <br />
+
+## Themes 
+- Synapse 
+- Sentinel
+- Midnight
+- Light
+- Dark
