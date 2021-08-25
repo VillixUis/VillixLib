@@ -1,7 +1,7 @@
 ### Villix UI Libary 
 
 ## Current Features
-- InitLib()
+- NewLib()
 - NewButton()
 - NewSection()
 - NewToggle()
